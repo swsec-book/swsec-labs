@@ -7,12 +7,12 @@
 [submodule "fuzzing/go-fuzz-corpus"]
 	path = fuzzing/go-fuzz-corpus
 	url = https://github.com/dvyukov/go-fuzz-corpus
-[submodule "fuzzing/ftp/mutiny-fuzzer"]
-	path = fuzzing/ftp/mutiny/mutiny-fuzzer
-	url = https://github.com/Cisco-Talos/mutiny-fuzzer
 [submodule "fuzzing/ftp/boofuzz/boofuzz-fuzzer"]
 	path = fuzzing/ftp/boofuzz/boofuzz-fuzzer
 	url = https://github.com/jtpereyda/boofuzz
+[submodule "fuzzing/ftp/mutiny/mutiny-fuzzer"]
+	path = fuzzing/ftp/mutiny/mutiny-fuzzer
+	url = https://github.com/Cisco-Talos/mutiny-fuzzer
 [submodule "llm-security/AI-Red-Teaming-Playground-Labs"]
 	path = llm-security/AI-Red-Teaming-Playground-Labs
 	url = https://github.com/microsoft/AI-Red-Teaming-Playground-Labs
